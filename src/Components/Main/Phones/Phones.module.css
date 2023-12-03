@@ -1,0 +1,51 @@
+.horizontalGroup{
+    display: flex;
+}
+.centeredGroup{
+    display:flex
+}
+.phoneItem{
+    margin-left: 10%;
+}
+.price{
+    color: green;
+}
+.phones{
+    background-color: #C0C0C0;
+}
+.phoneItem{
+    margin-top: 10%;
+    background-color: white;
+}
+
+.secondGroup{
+    margin-top: 5%;
+    margin-right: -6%;
+
+}
+.thirdGroup{
+    width: 600px;
+
+}
+.rating{
+    color: goldenrod;
+}
+.btn_more{
+    cursor: pointer;
+    margin-top: 50px;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+}
+
+.btn_more:hover{
+    background-color: green;
+    transition: 0.5s;
+}

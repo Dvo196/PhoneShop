@@ -1,0 +1,58 @@
+ul{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    list-style: none;
+    position: absolute;
+    margin-left: 20%;
+    top: -20px;
+    background: linear-gradient( #ff0000,  #ff0000 );
+    width: 77%;
+    height: 90px;
+}
+ .name{
+    color: red;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    font-size: 35px;
+    margin-left: 7%;
+    margin-top: 1.5%;
+}
+.nav{
+    margin-left: 20%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 4%;
+    list-style: none;
+    color: rgb(255, 255, 255);
+
+}
+.text1{
+    margin-right: 5%;
+    margin-top: -3.2%;
+    height: 50px;
+    background-color: #ff0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    /* position: absolute; */
+ } 
+ .location{
+    margin-left: 15%;
+ }
+ .locationbag{
+     position: absolute;
+     margin-left: 21%;
+ }
+ .mail{
+    margin-left: 5%;
+ }
+ .mailbag{
+    position: absolute;
+    margin-right: 10%;
+}

@@ -1,0 +1,82 @@
+.bgc{
+    background-color: black;
+    margin-top: -3.5%;
+}
+.bgimg{
+     width: 100%;
+    height: 100vh; 
+    /* margin-top: 1%; */
+}
+.arrowRight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30%;
+    border: 20px solid red;
+    background-color: red;
+    border-radius: 40px;
+    cursor: pointer;
+
+}
+.arrowLeft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 95.6%;
+    margin-top: -4%;
+    border: 20px solid red;
+    background-color: red;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.BlockTextes{
+    margin-left: 10%;
+    margin-top: -35%;
+    position: absolute;
+    list-style: none;
+    color: white;
+}
+.text1{
+    font-size: 65px;
+    line-height: 93px;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-right: 48.5%;
+}
+.text2{
+    font-size: 98px;
+    line-height: 93px;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+ .text3{
+   margin-top: 10px;
+    font-size: 17px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-right: 18%;
+} 
+.btnBuy{
+    margin-top: 10px;
+    background-color: red;
+    width: 175px;
+    height: 50px;
+    margin-right: 78%;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btnBuy:hover{
+    background-color: white;
+    color: red;
+    transition: 0.5s;
+
+}
+.logos{
+    margin-right: 80%;
+    margin-top: 20px;
+}

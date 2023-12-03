@@ -1,0 +1,51 @@
+.footer{
+    margin-top: -1.6%;
+    height: 500px;
+    background-color: black;
+    color: white;
+    
+}
+.Adddres{
+   margin-top: 10%;
+   position: absolute;
+   margin-left: 47.5%;
+
+}
+.line{
+    width: 100px;
+    position: absolute;
+    margin-top: 12.5%;
+    margin-left: 23%;
+    width: 801px;
+    height: 1px;
+    background-color: #fcfcfc;
+}
+.textes_footer{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 35%;
+}
+.number{
+    margin-left: 27%;
+}
+.mail{
+    margin-left: 27%;
+
+}
+.icon{
+    margin-top: 3%;
+    margin-left: 27%;
+}
+.info_footer{
+    display: flex;
+    
+}
+/* .home{
+    margin-right: 55%;
+}
+.about{
+    margin-right: 50%;
+} */
+.Contact{
+    margin-left: 23%;
+}
